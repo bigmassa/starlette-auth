@@ -69,7 +69,7 @@ setup(
         'jinja2',
         'python-multipart',
         'sqlalchemy_utils',
-        'starlette-core @ git+https://github.com/accent-starlette/starlette-core@master'
+        'starlette-core @ git+https://github.com/bigmassa/starlette-core@master'
     ],
     extras_require={
         "docs": [
